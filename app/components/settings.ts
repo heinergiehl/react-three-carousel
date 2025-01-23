@@ -1,11 +1,11 @@
 // Dimensions for each plane (image)
 export const planeSettings = {
-  width: 5.5,
-  height: 4,
+  width: 8.5,
+  height: 7,
 }
 
 // Gap between items
-export const ITEM_GAP = 15
+export const ITEM_GAP = 10
 
 // Default vs. Active group transformations
 export const GROUP_ROTATION_DEFAULT: [number, number, number] = [
